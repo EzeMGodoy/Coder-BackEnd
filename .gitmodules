@@ -1,8 +1,8 @@
-[submodules "desafio-ManejandoArchivos"]
+[submodule "desafio-ManejandoArchivos"]
     path = desafio-ManejandoArchivos
     url = https://github.com/EzeMGodoy/desafio-ManejandoArchivos
 
 
-[submodules "servidorConExpress"]
+[submodule "servidorConExpress"]
     path = servidorConExpress
     url = 
