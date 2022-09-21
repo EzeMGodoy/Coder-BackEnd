@@ -6,3 +6,7 @@
 [submodule "servidorConExpress"]
     path = servidorConExpress
     url = https://github.com/EzeMGodoy/Desafio-Servidor-Con-Express
+
+[submodule "API-RESTful"]
+    path = API-RESTful
+    url = https://github.com/EzeMGodoy/desafio-API-REST
